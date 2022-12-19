@@ -128,7 +128,7 @@ header a {
 }
 
 .page-section h2 {
-  flex: 0 0 25%;
+  flex: 0 0 20%;
   color: --heading-color;
   border-right: 3px solid var(--heading-color);
   text-align: right;
@@ -274,7 +274,7 @@ header a {
   }
 }
 
-@media only screen and (max-width: 590px) {
+@media only screen and (max-width: 615px) {
   nav {
     display: none;
   }
